@@ -1,3 +1,4 @@
+![ezgif com-resize](https://user-images.githubusercontent.com/17580803/113567617-3a328f80-960f-11eb-8561-b89345d11f90.gif)
 # HorizontalSmoothViewPager
 An Android library that provides a horizontal smooth ViewPager with customize transformer to controlle on pages scale
 
