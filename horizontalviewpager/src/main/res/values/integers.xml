@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="building_anim_duration_millis">400</integer>
+    <integer name="labels_animation_duration">350</integer>
+    <integer name="recycleranim">650</integer>
+</resources>
