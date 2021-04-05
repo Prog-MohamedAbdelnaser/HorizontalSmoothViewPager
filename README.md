@@ -1,4 +1,8 @@
-![ezgif com-resize](https://user-images.githubusercontent.com/17580803/113567617-3a328f80-960f-11eb-8561-b89345d11f90.gif)
+
+### Preview
+![ezgif com-resize (1)](https://user-images.githubusercontent.com/17580803/113567677-56cec780-960f-11eb-810e-d409f9a788ed.gif)
+
+
 # HorizontalSmoothViewPager
 An Android library that provides a horizontal smooth ViewPager with customize transformer to controlle on pages scale
 
@@ -35,4 +39,4 @@ Add com.softartch.horizontalviewpager.viewpager.HorizontalViewPager to your xm f
 
 ### you can use 'pagesScale' to change other pages scale
 
-### Preview
+
