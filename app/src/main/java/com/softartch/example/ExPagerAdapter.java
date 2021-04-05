@@ -22,6 +22,7 @@ public class ExPagerAdapter extends PagerAdapter {
     public ExPagerAdapter(List<String> feedItemList, Context mContext) {
         this.mContext = mContext;
         this.feedItemList = feedItemList;
+
     }
 
     @Override
